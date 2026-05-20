@@ -73,12 +73,11 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Krishna-Kush-05/Krishna-Kush-05/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Krishna-Kush-05/Krishna-Kush-05/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies

@@ -20,19 +20,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Krishna-Kush-05" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-<a href="https://linkedin.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:yourmail@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna-Kush-05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kushwah-05a168320)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna050906@gmail.com)
+
+</div>
 
 ## 💻 Tech Stack
 
